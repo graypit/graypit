@@ -7,5 +7,5 @@ For more information about me:
 - 🌎 [Medium](https://medium.com/@graypit)
 
 How to reach me:
-- 📫 <a href="callto:graypit?call">Skype</a>
 - 📫 [Mail](mailto:graypit@gmail.com?subject=[GitHub]%20Personal%20email)
+- 💬 Skype: graypit
